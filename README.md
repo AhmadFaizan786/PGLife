@@ -34,6 +34,6 @@ Contact for Consent: Any commercial or personal use of this project outside the 
 
 Contributions and Pull Requests: Contributions to this project are welcome, but they must also adhere to the GNU GPL. By contributing, you agree to license your contributions under the same terms. If you have questions or concerns, please contact me.
 
-Report Violations: If you come across any unauthorized use or distribution of this project that violates the GNU GPL, please report it immediately to faizan.ahmad@gmail.com.
+Report Violations: If you come across any unauthorized use or distribution of this project that violates the GNU GPL, please report it immediately to faizan.ahmad8542@gmail.com.
 
 Thank you for your understanding and cooperation. We appreciate your support in maintaining the integrity of open-source licensing.
